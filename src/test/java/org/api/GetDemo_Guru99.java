@@ -117,7 +117,8 @@ public class GetDemo_Guru99 {
 		    sumOfAll=sumOfAll+Integer.valueOf(a);
 		}
 		System.out.println("The total amount is "+sumOfAll);
-		
+		System.out.println("Just making some changes to push in git");
+
 	}
 	
 	
